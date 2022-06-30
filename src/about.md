@@ -6,12 +6,12 @@ title: Oussama Tekaya | UX/UI Designer
 
 ## Senior UX/UI designer based. Based in Tunis, Tunisia.
 
-I began my journey in design in 2018 by working with multiple design agency, creating multiple brands, apps, and websites for various businesses in and out of Tunisia.
+I began my journey in design in 2015 by working with multiple design agency, creating multiple brands, apps, and websites for various businesses in and out of Tunisia.
 
 ![Me](/static/oussama.jpg)
 
 
-Currently working with Hackages tech community, building their brand and learning platform used by thousands of engineers around the world.
+Currently working with InstaDeep, building their brand and AI-power apps and platforms used by thousands around the world.
 
 - Checkout my work at [Behance](https://www.behance.net/tekaya-oussama)
 

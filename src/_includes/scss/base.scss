@@ -1,5 +1,6 @@
 $body: #fff;
-$text-prismary: #e4e4e4;
+$body-bg:rgba(0, 0, 0, 0);
+$text-primary: #e4e4e4;
 $border: #141414;
 $overlay:rgba(0, 0, 0, 0.8);
 /* BREAKPOINTS */
@@ -19,8 +20,8 @@ html {
 }
 
 body {
-  color: $text-prismary;
-  background-color: black;
+  color: $text-primary;
+  background-color: #000;
   padding-top: 6rem;
   @media (max-width: $breakpoint-tablet) {
   padding-top: 3rem;

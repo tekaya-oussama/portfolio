@@ -1,10 +1,18 @@
 ---
-title: Caire website design
-img: /static/work/caire.png
-description: Caire is a webapp design project for medical AI startup.
+title: Caire AI Labeling tool 
+img: /static/work/caire/caire_cover.jpg
+description: Caire is a labeling tool for AI applications.
 ---
 
-## An AI-powered web app.
-I began my journey in design in 2018 by working with multiple design agency, creating multiple brands, apps, and websites for various businesses in and out of Tunisia.
+## AI Labeling tool 
+Caire is a labeling tool for AI applications.
 
 ![UI](/static/work/caire.png)
+
+![UI](/static/work/caire/imageclassificationLabeling.png)
+
+![UI](/static/work/caire/LabelingTasks.png)
+
+![UI](/static/work/caire/newLabelingTasks.png)
+
+![UI](/static/work/caire/Projects.png)
